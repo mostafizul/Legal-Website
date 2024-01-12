@@ -1,6 +1,12 @@
 .carousel-caption{
     margin-bottom: 200px;
 }
+.card img{
+    width: 17%;
+}
+.card i{
+    color: #B68C5A;
+} 
 @media only screen and (max-width: 768px) {
     .carousel-caption{
         margin-bottom: 0px;
@@ -14,5 +20,12 @@
         font-size: 10px;
     }.carousel-Description{
         font-size: 8px;
+    }.slider-img{
+        width: 10%;
+    }.slider-name,.slider-job,.slider-dexcription{
+        font-size: 10px;
+    }
+    .card{
+        border:none !important;
     }
   }
