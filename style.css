@@ -11,6 +11,8 @@
     .carousel-caption{
         margin-bottom: 0px;
     }
+  }.footer-form{
+       margin-bottom: 50px; 
   }
 @media only screen and (max-width: 576px) {
     .carousel-caption{
