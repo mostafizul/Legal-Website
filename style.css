@@ -27,5 +27,8 @@
     }
     .card{
         border:none !important;
+    }.FAQ .row{
+        display: flex;
+        flex-direction: column-reverse;
     }
   }
